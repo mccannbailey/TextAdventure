@@ -67,7 +67,7 @@ namespace Adventuregame
                         outputLabel.Text = "";
                         break;
                     case 11:
-                        //restart button visible
+                        //restart button visible 
                         outcomeLabel.Text = "FIRED! How dare you.";
                         outcomeLabel.ForeColor = Color.White;
                         outcomeLabel.BackColor = Color.Red;
